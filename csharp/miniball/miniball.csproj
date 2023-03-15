@@ -5,6 +5,18 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+
+    <Authors>Lorenzo Delana</Authors>
+    <Version>1.0.4</Version>    
+    <Description>Smallest enclosing ball of a point set</Description>
+    <PackageId>miniball-devel0</PackageId>
+    <PackageProjectUrl>https://github.com/SearchAThing-forks/miniball</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SearchAThing-forks/miniball</RepositoryUrl>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageLicenseFile></PackageLicenseFile>
+    <PackageReleaseNotes>This is a nuget package of a forked project. The original project from Kaspar Fischer is available at https://github.com/hbf/miniball.</PackageReleaseNotes>
+    <PackageTags>miniball, smallest-enclosing-ball</PackageTags>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
